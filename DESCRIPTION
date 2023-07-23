@@ -2,11 +2,10 @@ Package: LinearAlgebraPackage
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Oussama Mesbah
+Description: This R package provides a collection of essential linear algebra functions for matrix manipulation and calculations. It includes functions for computing matrix inverses, determinants, eigenvalues, and eigenvectors. Additionally, it offers functionalities for matrix multiplication, transposition, solving linear systems, and calculating matrix norms. This package aims to be a useful toolkit for users working with linear algebra operations in their R projects.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
+Depends: R (>= 3.5.0)
